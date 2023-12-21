@@ -1,5 +1,7 @@
 # Multi-Tier Web Application Deployment with CloudFormation
 
+![Cloud Architecture](https://github.com/vdvChuong/AWS-CloudFormation-3-Tier-Web-App/assets/62344024/312f0c14-a0d6-42ea-bddc-d80567732c59)
+
 ## Overview
 
 This AWS CloudFormation templates deploys a multi-tier web application that includes EC2 instances for the application layer, an RDS instance for the database layer, and an Elastic Load Balancer (ELB) for load balancing.  Two applications, WordPress and PHP, are deployed.
